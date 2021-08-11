@@ -1,4 +1,4 @@
-# Visualizing of Youtube Thumbnail Clusters!
+# Visualizing Youtube Thumbnail Clusters!
 
 view at: https://vidgi.github.io/youtube-thumbnail-clustering
 
